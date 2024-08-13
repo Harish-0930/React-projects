@@ -1,11 +1,12 @@
 .allCards {
     display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
     border:2px solid black;
-    
+
 }
 
 .card {
-    z-index: -999;
   background: #fff;
   width: 24em;
   border-radius: 0.6em;
@@ -23,7 +24,7 @@
 
 .card img {
   width: 100%;
-  object-fit: cover;
+  height: 50%;
 }
 
 .card h2 {

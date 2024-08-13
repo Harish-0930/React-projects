@@ -10,7 +10,7 @@ function Footer() {
         <div className='NavLinks'>
             <ul className=''>
             <li>
-            <NavLink to="home">Home</NavLink>
+            <NavLink to="/">Home</NavLink>
             </li>
             <li>
             <NavLink to="about">About</NavLink>

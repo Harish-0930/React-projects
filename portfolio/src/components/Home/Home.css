@@ -29,6 +29,8 @@
 .homeProfile .Icons .icon{
     height: 100%;
     width:100%;
-    color:#000;
     cursor: pointer;
+}
+.icon{
+    color:rgba(255, 0, 0, 0.746);
 }
