@@ -26,16 +26,16 @@ function Footer() {
         <div className='mediaLinks'>
         <ul className=''>
             <li>
-            <a href="home">Mail</a>
+            <a href="mailto:munagalaharish45@gmail.com">Mail</a>
             </li>
             <li>
-            <a href="about">Phone</a>
+            <a href="telto:+91 8790725505">Phone</a>
             </li>
             <li>
-            <a href="projects">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/munagala-harish-80a746257">LinkedIn</a>
             </li>
             <li>
-            <a href="contact">GitHub</a>
+            <a href="https://github.com/Harish-0930/">GitHub</a>
             </li>
             </ul>
         </div>
