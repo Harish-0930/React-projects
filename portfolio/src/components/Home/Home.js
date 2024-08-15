@@ -13,10 +13,10 @@ function Home() {
         <h2>Hey there! I am Harish</h2>
         <p>Aspiring It Professional and Job Seeker</p>
         <div className="Icons">
-       <a href="#" > <IoIosMail className='icon'/></a>
-       <a href="#"> <CiMobile2 className='icon'/></a>
-       <a href="#"> <FaLinkedin className='icon' /></a>
-       <a href="#"> <FaGithub className='icon'/></a>
+       <a href="mailto:munagalaharish45@gmail.com" > <IoIosMail className='icon'/></a>
+       <a href="telto:+91 8790725505"> <CiMobile2 className='icon'/></a>
+       <a href="https://www.linkedin.com/in/munagala-harish-80a746257"> <FaLinkedin className='icon' /></a>
+       <a href="https://github.com/Harish-0930/"> <FaGithub className='icon'/></a>
         </div>
       </div>
     </div>

@@ -9,6 +9,7 @@
 .card {
   background: #fff;
   width: 24em;
+  height:600px;
   border-radius: 0.6em;
   margin: 1em;
   overflow: hidden;
